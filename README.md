@@ -7,6 +7,15 @@ Fazer um código que conte de 1 até 100, sendo que sempre que um número
 - for múltiplo de 03 e 04, deve retornar "MarMinino"
 
 
+## Executar
+
+Para instalar as dependencias
+`npm install`
+
+Para executar os testes
+`npx jest tests`
+
+Quando ficar tudo verdinho é porque passou
 
 ## Regras
 
@@ -20,3 +29,4 @@ Para critério de desempate
 ## Finalizar o processo
 
 Ao terminar o código você precisar criar um Pull Request no repositorio que você forkou
+
