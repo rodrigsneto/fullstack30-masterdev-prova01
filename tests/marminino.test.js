@@ -34,7 +34,7 @@ const resultado = {
 test('testa se a funcao obedece os requisitos', () => {
     log("===============================");
 
-    for (let i = 1; i <= 4; i++) {
+    for (let i = 1; i <= 25; i++) {
         let retorno = executar(i);
 
         log(`${i}: ${retorno}`);
